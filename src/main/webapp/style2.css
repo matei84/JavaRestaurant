@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+body {
+    font-family: "Times New Roman", Times, serif; 
+    background-color: #f8f8f8;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.menu-container {
+    width: 80%;
+    margin: 50px auto;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.menu-item {
+    margin: 20px 0;
+}
+
+h2 {
+    color: #d9534f;
+}
+
+p {
+    padding: 5px 0;
+    border-bottom: 1px solid #f0f0f0;
+}
